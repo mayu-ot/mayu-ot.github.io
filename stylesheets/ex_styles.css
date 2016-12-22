@@ -1,0 +1,42 @@
+.plinks {
+  display: inline-block;
+}
+.plink {
+  display: inline-block;
+  padding: 1px;
+  margin: 1px;
+}
+.plink a {
+}
+.ptitle {
+  padding: 1px;
+  margin: 1px;
+  font-weight: bold;
+}
+.pauthors {
+  padding: 1px;
+  margin: 1px;
+  font-style: italic;
+}
+.pvenue {
+  display: inline-block;
+  margin: 1px;
+}
+.paper {
+  border-bottom: solid 1px #EEE;
+  margin-bottom: 5px;
+}
+.pimg img {
+  height: 120px;
+}
+.pimg {
+  float: left;
+  width: 250px;
+}
+.scr {
+  overflow: auto;   /* スクロール表示 */ 
+  width: auto;
+  height: 170px;
+  margin-bottom: 15px;
+  background-color: #F8F8FF;
+}
